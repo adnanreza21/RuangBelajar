@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/homenav"
+        android:title="@string/homenav" />
+    <item
+        android:icon="@drawable/personnav"
+        android:title="@string/personnav" />
+    <item
+        android:icon="@drawable/backnav"
+        android:title="@string/backnav" />
+</menu>

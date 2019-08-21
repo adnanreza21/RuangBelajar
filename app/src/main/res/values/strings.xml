@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ruang Belajar</string>
+    <string name="homenav">Home</string>
+    <string name="backnav">Back</string>
+    <string name="personnav">Profile</string>
+    <string name="ruang_belajar">Ruang Belajar</string>
+    <string name="description_txt">Molekul senyawa adalah partikel terkecil dari suatu senyawa yang masih memiliki sifat yang sama dengan senyawa itu. Molekul senyawa dapat dibentuk dari penggabungan atom unsur-unsur yang sama (molekul unsur) ataupun atom unsur-unsur yang berbeda (molekul senyawa).Molekul unsur adalah merupakan molekul yang terbentuk dari hasil penggabungan atom-atom unsur yang sama atau sejenis. Sebagai contoh, gas O2 (oksigen) yang ada di udara adalah unsur yang partikelnya berupa molekul. Molekul oksigen dibentuk oleh dua atom oksigen. Molekul senyawa adalah molekul yang terbentuk dari hasil penggabungan atom unsur-unsur yang berbeda. Contoh molekul senyawa yang sering kita jumpai dalam kehidupan sehari-hari adalah air (H2O).</string>
+    <string name="description_txt2">Ciri tumbuhan monokotil dan dikotil dapat diamati pada morfologi organ seperti pertulangan daun, kambium batang, jumlah mahkota bunga, dan lain – lain. Contoh tumbuhan berkeping satu atau tumbuhan ke dalam kategori monokotil adalah padi, pisang, bambu, jagung, tebu dan lan – lain. Tanaman yang termasuk ke dalam kategori dikotil adalah kacang-kacangan, mangga, tomat, rambutan, dan lain – lain.
+
+        Perbedaan antara tumbuhan monokotil dan dikotil menjadi dasar utama dalam klasifikasi berdasarkan jumlah kotiledonnya. Kotiledon telah dijelaskan bahwa daun lembaga yang memiliki fungsi menyimpan nutrisi untuk calon embrio. Nutrisi tersebut akan dimanfaatkan hingga embrio pada biji telah tumbuh menjadi individu baru dengan daun -daun yang dapat memproduksi makanan untuk tubuhnya sendiri melalui proses metabolisme fotosintesis.
+
+        Tumbuhan yang telah mampu untuk berfotosintesis maka dapat memproduksi sendiri energi untuk metabolisme protein, metabolisme karbohidrat, metabolisme asam amino dan protein, dan metabolisme lemak. Jumlah kotiledon pada tumbuhan yang tergolong ke dalam kelompok monokotil adalah satu, sedangkan tumbuhan yang tergolong kelompok dikotil yakni dua kotiledon.</string>
+
+</resources>
